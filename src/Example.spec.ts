@@ -1,8 +1,6 @@
 "use strict";
 
-import 'jest';
-require("babel-core/register");
-require("babel-polyfill");
+import "jest";
 
 import { Example } from "./Example";
 
@@ -13,5 +11,6 @@ describe("Example", () => {
 
     it("Should be able to create new instance", () => {
         expect(typeof new Example()).toBe("object");
+        expect(true).toBe(true);
     });
 });

@@ -1,4 +1,7 @@
-# ts-library-starter
+# typescript-with-tests-starter
+
+This is a clone of https://github.com/DxCx/ts-library-starter
+
 [![NPM version](https://img.shields.io/npm/v/ts-library-starter.svg)](https://www.npmjs.com/package/ts-library-starter)
 [![Build Status](https://travis-ci.org/DxCx/ts-library-starter.svg?branch=master)](https://travis-ci.org/DxCx/ts-library-starter)
 [![Coverage Status](https://coveralls.io/repos/github/DxCx/ts-library-starter/badge.svg?branch=master)](https://coveralls.io/github/DxCx/ts-library-starter?branch=master)
